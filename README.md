@@ -25,12 +25,12 @@
 name     : Handika Pratama Nainggolan
 location : Sumatera Utara, Indonesia 🇮🇩
 college  : Institut Teknologi Del (IT Del)
-major    : Informatics Engineering
+major    : Computer Engineering
 focus    : [DevOps, Cloud Computing, IoT, Linux]
 status   : "open_to_opportunities"
 ```
 
-- 🎓 Mahasiswa **Teknik Informatika** di **Institut Teknologi Del (IT Del)**
+- 🎓 Mahasiswa **Teknik Komputer** di **Institut Teknologi Del (IT Del)**
 - ☁️ Passionate tentang **DevOps**, **Cloud Computing**, dan **Infrastructure Automation**
 - 📡 Suka membangun **IoT systems** dengan Arduino dan embedded systems
 - 🔐 Anggota aktif **Del Cyber Security Club**
