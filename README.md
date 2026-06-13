@@ -1,21 +1,51 @@
-<div align="center">
+<!-- Typing Animation + Profile Photo -->
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Handika%20Pratama%20Nainggolan&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20DevOps%20%26%20IoT%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<table align="center">
+<tr>
 
-<!-- Typing Animation -->
+<td>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+%E2%9A%99%EF%B8%8F;IoT+Systems+Builder+%F0%9F%93%A1;Cloud+%26+Linux+Enthusiast+%F0%9F%90%A7;Kubernetes+Practitioner+%E2%98%B8%EF%B8%8F;IT+Del+Student+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+⚙️;IoT+Systems+Builder+📡;Cloud+%26+Linux+Enthusiast+🐧;Kubernetes+Practitioner+☸️;IT+Del+Student+🎓" alt="Typing SVG" />
 </a>
 
-<br/>
+<br><br>
+
+### 🎯 Interested Roles
+
+![DevOps](https://img.shields.io/badge/DevOps-6c63ff?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-6c63ff?style=for-the-badge)
+![SRE](https://img.shields.io/badge/SRE-6c63ff?style=for-the-badge)
+
+<br>
+
+![Infrastructure](https://img.shields.io/badge/Infrastructure-6c63ff?style=for-the-badge)
+![IT_Support](https://img.shields.io/badge/IT_Support-6c63ff?style=for-the-badge)
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/handika-nainggolan/handika-nainggolan/main/dika.jpg"
+width="220"
+alt="Handika Pratama Nainggolan"/>
+
+<br><br>
+
+<b>🚀 Open To Internship Opportunities</b>
+
+</td>
+
+</tr>
+</table>
+
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=handika-nainggolan&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/handika-nainggolan?label=Followers&style=flat-square&color=6c63ff" alt="Followers"/>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=handika-nainggolan&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/handika-nainggolan?label=Followers&style=flat-square&color=6c63ff" alt="Followers"/>  
 
 ---
 
@@ -148,8 +178,7 @@ status   : "open_to_opportunities"
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/handika-nainggolan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:handikanainggolan24@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282276310317)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white)](https://fortofolio-dika.vercel.app)
 </div>
 
 ---
