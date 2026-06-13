@@ -1,52 +1,21 @@
 <div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Handika%20Pratama%20Nainggolan&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20DevOps%20%26%20IoT%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+⚙️;IoT+Systems+Builder+📡;Cloud+%26+Linux+Enthusiast+🐧;Kubernetes+Practitioner+☸️;IT+Del+Student+🎓" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+%E2%9A%99%EF%B8%8F;IoT+Systems+Builder+%F0%9F%93%A1;Cloud+%26+Linux+Enthusiast+%F0%9F%90%A7;Kubernetes+Practitioner+%E2%98%B8%EF%B8%8F;IT+Del+Student+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="65%">
-
-### 🎯 Interested Roles
-
-![DevOps](https://img.shields.io/badge/DevOps-6c63ff?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-6c63ff?style=for-the-badge)
-![SRE](https://img.shields.io/badge/SRE-6c63ff?style=for-the-badge)
-
-<br>
-
-![Infrastructure](https://img.shields.io/badge/Infrastructure-6c63ff?style=for-the-badge)
-![IT_Support](https://img.shields.io/badge/IT_Support-6c63ff?style=for-the-badge)
-
-<br><br>
-
-🚀 Open To Internship Opportunities
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/handika-nainggolan/handika-nainggolan/main/dika.jpg"
-width="220"
-alt="Handika Pratama Nainggolan"/>
-
-</td>
-
-</tr>
-</table>
+<br/>
+<br/>
 
 <!-- Profile Views & Followers -->
-
 <img src="https://komarev.com/ghpvc/?username=handika-nainggolan&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/handika-nainggolan?label=Followers&style=flat-square&color=6c63ff" alt="Followers"/>
 
-<img src="https://img.shields.io/github/followers/handika-nainggolan?label=Followers&style=flat-square&color=6c63ff" alt="Followers"/>  
+</div>
 
 ---
 
