@@ -1,15 +1,18 @@
-<!-- Typing Animation + Profile Photo -->
+<div align="center">
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+⚙️;IoT+Systems+Builder+📡;Cloud+%26+Linux+Enthusiast+🐧;Kubernetes+Practitioner+☸️;IT+Del+Student+🎓" alt="Typing SVG"/>
+</a>
+
+</div>
+
+<br>
 
 <table align="center">
 <tr>
 
-<td>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer+⚙️;IoT+Systems+Builder+📡;Cloud+%26+Linux+Enthusiast+🐧;Kubernetes+Practitioner+☸️;IT+Del+Student+🎓" alt="Typing SVG" />
-</a>
-
-<br><br>
+<td width="65%">
 
 ### 🎯 Interested Roles
 
@@ -22,24 +25,22 @@
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-6c63ff?style=for-the-badge)
 ![IT_Support](https://img.shields.io/badge/IT_Support-6c63ff?style=for-the-badge)
 
+<br><br>
+
+🚀 Open To Internship Opportunities
+
 </td>
 
-<td align="center">
+<td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/handika-nainggolan/handika-nainggolan/main/dika.jpg"
 width="220"
 alt="Handika Pratama Nainggolan"/>
 
-<br><br>
-
-<b>🚀 Open To Internship Opportunities</b>
-
 </td>
 
 </tr>
 </table>
-
-<br/>
 
 <!-- Profile Views & Followers -->
 
